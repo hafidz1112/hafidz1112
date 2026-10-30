@@ -39,17 +39,21 @@
 </div>
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hafidz1112&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidz1112&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="165" alt="top languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Grafik Aktivitas Kontribusi (Pengganti Pacman yang langsung jalan tanpa perlu GitHub Actions) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafidz1112&theme=dracula&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=false&custom_title=Contribution%20Activity%20Graph" width="95%" alt="activity graph" />
+  <!-- GitHub Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafidz1112/hafidz1112/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafidz1112/hafidz1112/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hafidz1112/hafidz1112/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
@@ -58,5 +62,3 @@
   <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
 </div>
-
-###
